@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CamilleTronel
+- 👋 Hi, I’m @Camille
 - 👀 I’m interested in financial engineering
 - 🌱 I’m currently learning webdev & ML
 - 💞️ I’m looking to collaborate on kaggle, free-code & git
